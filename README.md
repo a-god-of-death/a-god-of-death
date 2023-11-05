@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**a-god-of-death/a-god-of-death** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### I am Yunfan Zhang. I am looking for a data analyst or related job.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on applying for a master degree in data science/Security and Resilience
+- 🌱 I’m currently learning mathmatics, quantum computer, economics..
+- 👯 I’m looking to collaborate on some Scientific research projects
+- 🤔 I’m looking for help with work hunting
+- 📫 How to reach me: 1015779089@qq.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| project | Tech stack | Description
+| --- | --- |
+| `git status` | List all *new or modified* files | what
+| `git diff` | Show file differences that **haven't been** staged | wdwef
