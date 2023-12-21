@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Yunfan Zhang. I am looking for a data analyst or related job.
+I am Nimo. I am looking for a data analyst or related job.
 
 Tech stack：SQL，Python，Solidity，Javascript, Motoko
 
-- 🔭 I’m currently working on applying for a master degree in data science/Security and Resilience
+- 🔭 I’m currently working on applying for a master degree in data science
 - 🌱 I’m currently learning mathmatics, quantum computer, economics
 - 👯 I’m looking to collaborate on some Scientific Research Projects
 - 🤔 I’m looking for help with job hunting
