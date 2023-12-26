@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am Nimo. I am looking for a data analyst or related job.
-
 Tech stack：SQL，Python，Solidity，Javascript, Motoko
 
 - 🔭 I’m currently working on applying for a master degree in data science
