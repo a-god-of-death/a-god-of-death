@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Tech stack： SQL， Python， Solidity， Javascript, Motoko
-My blog: [Link](https://yunfanzhang.blogspot.com/)
+
+My blog: [(https://yunfanzhang.blogspot.com/)](https://yunfanzhang.blogspot.com/)
 
 - 🔭 I’m currently working on developing products for Solana
 - 🌱 I’m currently learning mathematics, quantum computer, economics
