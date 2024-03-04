@@ -2,10 +2,9 @@
 
 Tech stack： SQL， Python， Solidity， Javascript, Motoko
 
-My blog: [https://yunfanzhang.blogspot.com/](https://yunfanzhang.blogspot.com/)
 
 - 🔭 I’m currently working on developing products for Solana
-- 🌱 I’m currently learning mathematics, quantum computer, economics
+- 🌱 I’m currently learning economics
 - 👯 I’m looking to collaborate on some Scientific Research Projects
 - 🤔 I’m looking for help with job hunting
 - 📫 How to reach me: 1015779089@qq.com
